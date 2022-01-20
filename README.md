@@ -52,7 +52,7 @@ print (Y_pred)
 
 
 ```
-## Output
+## Output:
 ![output](.//o1.png)
 ![output](.//o2.png)
 ## Result
