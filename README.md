@@ -53,7 +53,7 @@ print (Y_pred)
 
 ```
 ## Output:
-![output](.//o1.png)
-![output](.//o2.png)
+![output](.//o1.PNG)
+![output](.//o2.PNG)
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
